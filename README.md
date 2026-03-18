@@ -27,7 +27,7 @@ I am a seasoned **Website Developer** with over **5 years of experience** specia
 
 ### 🌐 Connect With Me
 
-* 🌍 **Portfolio:** [techomaster.in/portfolio](https://techomaster.in/portfolio)
+* 🌍 **Portfolio:** [techomaster.in/](https://techomaster.in/)
 * 📍 **Location:** Jabalpur, Madhya Pradesh, India
 * 💬 **Let's Talk:** Ask me about WordPress optimization, AI Agents, or full-stack architecture.
 
