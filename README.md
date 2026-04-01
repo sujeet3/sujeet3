@@ -1,36 +1,42 @@
-# Hi there, I'm Sujeet Pandit (TechoMaster) 👋 
+# Hi there, I'm Sujeet Pandit 👋
 
-### Full-Stack Developer | WordPress Specialist | AI Agent Enthusiast
+### AI Automation Engineer | Website Developer & WordPress Specialist
+*(Also known as TechoMaster)*
 
-I am a seasoned **Website Developer** with over **5 years of experience** specializing in WordPress and custom web solutions. Currently, I am leveraging my background in Computer Science to build intelligent **AI Agents** and high-performance web architectures.
+I'm a passionate developer based in Jabalpur, specializing in AI automation, building dynamic websites, and exploring the frontiers of artificial intelligence. With over 5 years of experience in development and a strong foundation as a daily Linux user, I bring a blend of technical expertise and creative problem-solving to every project.
+
+## 🚀 About Me
+
+* 🤖 I’m an **AI Automation Engineer**, currently focused on developing **AI Agents** and leveraging **Prompt Engineering**.
+* 💻 I also work as a **Website Developer** and **WordPress Specialist**.
+* 🐧 I am a proud **Linux user**, favoring open-source environments for my daily workflow and deployments.
+* 🎓 I hold a Master's and Bachelor's degree in Computer Science Engineering.
+* 🌐 Check out my latest work on my portfolio: [techomaster.in/portfolio](https://techomaster.in/portfolio)
+
+## 💻 Tech Stack & Tools
+
+* **AI & Automation:** AI Agents, Prompt Engineering, Automation Workflows
+* **Web Development:** WordPress, PHP, Web Architecture
+* **Environment & Tools:** Linux, Git, GitHub, Bash
+
+## 🛠️ Featured Projects & Ventures
+
+
+* **LibraryInfo (2020):** A comprehensive library management system.
+* **ExchangeBook (2019):** An e-commerce platform designed specifically for college students.
+
+## 🏆 Achievements & Highlights
+
+* 🥈 **2nd Place:** Jigyasa Science Innovation Contest (2019)
+* 🏅 **9th Place:** National Hackathon (2018)
+
+## 📊 GitHub Stats
+
+![Sujeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujeet21git&show_icons=true&theme=transparent)
+
+## 📫 Let's Connect
+
+* **Portfolio:** [techomaster.in](https://techomaster.in)
 
 ---
-
-### 🛠️ Tech Stack & Skills
-
-* **Core:** PHP, JavaScript, Python (Prompt Engineering)
-* **Web Development:** WordPress (Expert), Theme & Plugin Customization, Full-Stack Development
-* **Education:** Master of Technology (M.Tech) in Computer Science
-* **Current Focus:** Building AI-driven agents and exploring the intersection of AI and Web Development.
-
----
-
-### 🏆 Key Accomplishments & Projects
-
-* **National Hackathon:** Ranked **9th** nationwide (2018).
-* **Jigyasa Science Innovation:** Secured **2nd Place** (2019).
-* **ExchangeBook:** Developed an e-commerce platform tailored for college students.
-* **LibraryInfo:** Created a comprehensive library management system.
-* **Freelance Expert:** Delivering robust web solutions for clients worldwide under the **TechoMaster** brand.
-
-
-
-### 🌐 Connect With Me
-
-* 🌍 **Portfolio:** [techomaster.in/](https://techomaster.in/)
-* 📍 **Location:** Jabalpur, Madhya Pradesh, India
-* 💬 **Let's Talk:** Ask me about WordPress optimization, AI Agents, or full-stack architecture.
-
----
-
-*"Building the future of the web, one line of code at a time."*
+⭐️ *From [sujeet21git](https://github.com/sujeet21git)*
