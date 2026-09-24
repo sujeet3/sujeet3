@@ -11,7 +11,7 @@ I'm a passionate developer based in Jabalpur, specializing in AI automation, bui
 * 💻 I also work as a **Website Developer** and **WordPress Specialist**.
 * 🐧 I am a proud **Linux user**, favoring open-source environments for my daily workflow and deployments.
 * 🎓 I hold a Master's and Bachelor's degree in Computer Science Engineering.
-* 🌐 Check out my latest work on my portfolio: [techomaster.in/portfolio](https://techomaster.in/portfolio)
+* 🌐 Check out my latest work on my portfolio: [sujeetpandit.in](https://sujeetpandit.in)
 
 ## 💻 Tech Stack & Tools
 
@@ -36,7 +36,7 @@ I'm a passionate developer based in Jabalpur, specializing in AI automation, bui
 
 ## 📫 Let's Connect
 
-* **Portfolio:** [techomaster.in](https://techomaster.in)
+* **Portfolio:** [sujeetpandit.in](https://sujeetpandit.in)
 
 ---
 ⭐️ *From [sujeet21git](https://github.com/sujeet21git)*
